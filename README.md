@@ -21,7 +21,6 @@ The goal of this project is to show my portifolio to the world.
 * C#
 * HTML
 * CSS
-* JavaScript
 
 
 ## Setup
