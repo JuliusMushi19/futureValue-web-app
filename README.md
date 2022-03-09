@@ -15,7 +15,7 @@
 The goal of this project is to show my portifolio to the world.
 
 ## Screenshots
-![futureValue](./futureValue.PNG)
+![futureValue](./futureValue.png)
 
 ## Technologies
 * C#
