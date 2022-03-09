@@ -15,7 +15,7 @@
 The goal of this project is to show my portifolio to the world.
 
 ## Screenshots
-![MurachLogo](./MurachLogo.jpg)
+![futureValue](./futureValue.PNG)
 
 ## Technologies
 * C#
