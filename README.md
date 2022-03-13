@@ -18,6 +18,7 @@ The goal of this project is to show my portifolio to the world.
 ![futureValue](./futureValue.png)
 
 ## Technologies
+* ASP.NET
 * C#
 * HTML
 * CSS
