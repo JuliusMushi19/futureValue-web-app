@@ -1,5 +1,5 @@
 # FutureValue Web App
-> A single page ASP.NET web application to calculate future value for 401K.
+>Web application to calculate future value for 401K.
 
 ## Table of contents
 * [General info](#general-info)
